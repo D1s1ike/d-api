@@ -1,8 +1,7 @@
 ## Simple HTTP Server for serving Players list
 
-**Currently using infinite loop for caching players, Will be fixed in future versions.**
-**Might crash when Hot-Reloading the script.**
+**Currently uses an infinite loop to cache players. This will be improved in future versions.**
 
 **Features:**
-- Support custom port and endpoint
-- Support API Key authentication
+- Supports custom ports and endpoints
+- Supports API key authentication
